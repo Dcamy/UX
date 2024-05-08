@@ -6,11 +6,11 @@
  
 2. Open a terminal (Powershell, bash, or CMD shouldn't matter)
 
-2.1 run ```ollama pull tinydolphin```
+ 2.1 run ```ollama pull tinydolphin```
 
-2.2 run ```ollama list```
+ 2.2 run ```ollama list```
 
-2.3 run ```ollama run tinydolphin```
+ 2.3 run ```ollama run tinydolphin```
 
 **With tinydolphin** loaded, you can say Hi or something to confirm it is running. 
 
