@@ -12,7 +12,9 @@
 **With tinydolphin** loaded, you can say Hi or something to confirm it is running. 
 
 3. Add this system prompt and press enter
-``` Add the System prompt here```
+``` 
+Add the System prompt here
+```
 4. Run ````/save iChain````
 5. Good luck on your install odysessy! 
 
