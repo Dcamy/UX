@@ -5,8 +5,11 @@
 1. Download [Ollama](https://ollama.com/download) **Note** this will automatically download Ollama, you need to run the ollama setup before proceeding. This is a background app with no graphical user interface, it is CLI only
  
 2. Open a terminal (Powershell, bash, or CMD shouldn't matter)
+
 2.1 run ```ollama pull tinydolphin```
+
 2.2 run ```ollama list```
+
 2.3 run ```ollama run tinydolphin```
 
 **With tinydolphin** loaded, you can say Hi or something to confirm it is running. 
