@@ -1,6 +1,6 @@
 # Welcome to iChain
 
-## Here is you guided getting started guide. 
+## Here is your guided getting started guide. 
 
 1. Download [Ollama](https://ollama.com/download) **Note** this will automatically download Ollama, you need to run the ollama setup before proceeding. This is a background app with no graphical user interface, it is CLI only
  
