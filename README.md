@@ -13,7 +13,7 @@
 
 3. Add this system prompt and press enter
 ``` Add the System prompt here```
-4. Run ```/save iChain```
+4. Run ````/save iChain````
 5. Good luck on your install odysessy! 
 
 **A couple of hints** for the way... if you are a Master branch type (google it if you don't know) HRAria will not be very helpful, and the Architec likes it when people say thank you.
