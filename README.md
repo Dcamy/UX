@@ -1,6 +1,22 @@
 # Welcome to iChain
 
-## Here is your guided getting started guide. 
+## The Scoop
+
+Ok, so when you are trying to build a project for OI (humans) and AI to work together you need and idea big enough to keep a new wave of developers working with AI to remain busy, this requires having a sizable project that is more or less infinately scaleble. The problem then becomes reviews are packed with "It's too big, to complex, start smaller" And we are like really? We have an iChain context dictionary that AI seem to grasp the the project pretty good. They need some guidance for sure but they get it. 
+
+We tried packing in every detail we could about iChain into a single AI and then no one wanted to talk to it becasue it wasn't cool or new, just another GPT. So we devised and crazy plan to take the user on a rediculasly long install procees. This process serves not only to ensure you have a basic understanding of what is going and are all set up and understand where each project is currently at, and a feeling of the bigger picture of what is possible with with different models, you have your own local AI, with all your files stored locally on your machine, you'll learn the basics of prompt engineering an emerging new career path, and what we think are some of the cooler tech currently available.
+
+**Gate 1** 
+First you will work with Dolhpin SYmbie, he's low voltage and about 650mb so it can run on more any device. With this guy you can just ready the system prompt but you would be missing out on geting a firm understanding of what to look out for when working with AI. This guy Hollusinates so much your gonna wonder if we gave him some digital muchrooms or somethign, like he is trippin, and sharing screenshots of the random dumb shit he says is funny AF and rewardable in SGC.
+
+**Challange** Obtain all the nessisary information from the trippin AI, he has all the links you need, you might have to ask more then once. If you get stuck just read the system prmopt, we get it... giving up on a tiny is almost expected. 
+
+**Goal**, install a desktop app, connect it to your local model and then make a choice and perform and least one brain transplant, you will need something heafty for the next gate to work right. I personally recommend Groq with llama 3 70b. Groq does use up part of the context window so you might want to keep your 
+
+**Gate 2**
+It's time for a bit of getting to you know, and only the 
+
+## Here is your guided getting started guide.
 
 1. Download [Ollama](https://ollama.com/download) **Note** this will automatically download Ollama, you need to run the ollama setup before proceeding. This is a background app with no graphical user interface, it is CLI only
  
@@ -11,6 +27,8 @@
  2.2 run ```ollama list```
 
  2.3 run ```ollama run tinydolphin```
+
+You can use CTRL + C to interupt the output, and CTRL + D to end the instance.
 
 **With tinydolphin** loaded, you can say Hi or something to confirm it is running. 
 
